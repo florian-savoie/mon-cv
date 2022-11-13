@@ -1141,12 +1141,12 @@
     .navbar .navbar-nav > a.btn.btn-simple:focus,
     .navbar .navbar-nav > a.btn.btn-simple:active {
       background-color: transparent;
-      color: #979797;
+      color: #39403d;
       border-color: #979797;
       box-shadow: none; }
   .btn.btn-link,
   .navbar .navbar-nav > a.btn.btn-link {
-    color: #888; }
+    color: #393d40; }
     .btn.btn-link:hover, .btn.btn-link:focus, .btn.btn-link:active,
     .navbar .navbar-nav > a.btn.btn-link:hover,
     .navbar .navbar-nav > a.btn.btn-link:focus,
@@ -5216,3 +5216,10 @@ a.credit {
 /* Common Style */
 .section {
   padding-bottom: 0; }
+.footer{
+  background-color: #117ce0;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem; 
+  width: 100% ;
+
+}
