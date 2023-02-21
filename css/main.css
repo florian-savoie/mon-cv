@@ -1,4 +1,10 @@
-
+.smooth-scroll{
+  font-weight: 1000 !important;
+font-size: 1rem !important;
+  color: #fafafa !important;
+  background-color: rgba(248, 246, 246, 0.02);
+  border-radius: 2rem;
+}
 .bootstrap-switch {
   display: inline-block;
   direction: ltr;
